@@ -1,0 +1,23 @@
+{
+  "name": "jest2-circle",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaDobrucki/Jest2-Circle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaDobrucki/Jest2-Circle/issues"
+  },
+  "homepage": "https://github.com/AnnaDobrucki/Jest2-Circle#readme",
+  "devDependencies": {
+    "jest": "^29.6.1",
+    "jest-environment-jsdom": "^29.6.1"
+  }
+}
